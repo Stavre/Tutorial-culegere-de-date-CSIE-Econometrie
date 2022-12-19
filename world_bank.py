@@ -58,6 +58,10 @@ print(df)
 
 # mai multe detalii pot fi găsite pe site-ul oficial: https://wbdata.readthedocs.io/en/stable/
 
+# pentru join (ca în SQL) vezi https://pandas.pydata.org/docs/user_guide/merging.html#database-style-dataframe-or-named-series-joining-merging
+# pentru a schimba structura datelor vezi https://pandas.pydata.org/docs/user_guide/reshaping.html#reshaping-by-melt
+# și https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.pivot.html#pandas.DataFrame.pivot
+
 
 
 
